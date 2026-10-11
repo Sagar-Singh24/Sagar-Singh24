@@ -50,7 +50,7 @@ Decision Hub focuses on making group decisions more interactive by bringing coll
 
 **Tech:** JavaScript
 
-[Explore Decision Hub →](https://github.com/Sagar-Singh24/DecisionHub)
+[Explore Decision Hub →](https://github.com/Sagar-Singh24/DecisionHub-Collaborative-Decision-Making-Community-Polling-Platform-Team-B.git)
 
 ---
 
